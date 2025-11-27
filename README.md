@@ -538,5 +538,5 @@ void PARADA()
 Si bien, se puede hacer un simple contador y comparar los valores de dos variables, hay que tener en cuenta que esta es la base / un extracto de otro proyecto de mas envergadura. Como verán, puede parecernos un poco extenso y engorroso, pero si prestamos atención a los comentarios del sketch, no es para nada complicado replicarlo y sumarle mas relay al controlador.... Les dejo una vista ampliada de como quedaría:
 Video Ejemplo de un Control Temporizado de 4 canales con función de salida en Cascada, Secuencial y Paso a Paso ( https://www.youtube.com/watch?v=KuOlEup2TWc )
 
-[![](https://markdown-videos.deta.dev/youtube/KuOlEup2TWc)](https://www.youtube.com/watch?v=KuOlEup2TWc)
+[![Video](https://img.youtube.com/vi/KuOlEup2TWc/0.jpg)](https://www.youtube.com/watch?v=KuOlEup2TWc)
 
