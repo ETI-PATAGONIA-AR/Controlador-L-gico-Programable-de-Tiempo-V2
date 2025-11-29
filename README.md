@@ -540,3 +540,14 @@ Video Ejemplo de un Control Temporizado de 4 canales con función de salida en C
 
 [![Video](https://img.youtube.com/vi/KuOlEup2TWc/0.jpg)](https://www.youtube.com/watch?v=KuOlEup2TWc)
 
+Les comparto los archivos para poder fabricar la caja con sus impresoras 3D
+
+<img width="1364" height="720" alt="Diseñando_CajaLOGO" src="https://github.com/user-attachments/assets/0a9f0f7e-ba9e-474f-afd5-73710bdd8f10" />
+
+<img width="1365" height="683" alt="Diseñando_CajaLOGO1" src="https://github.com/user-attachments/assets/7398979a-fb39-42a1-b3dc-876855332596" />
+
+<img width="1365" height="716" alt="Diseñando_CajaLOGO3" src="https://github.com/user-attachments/assets/dc1e67b9-a0b0-48bb-9fbd-072b1ae88ff0" />
+
+<img width="1363" height="688" alt="Diseñando_CajaLOGO2" src="https://github.com/user-attachments/assets/8b3cd3ba-5849-4d4c-b53d-7a525dc0fa45" />
+
+_el archivo esta configurado para imprimirlo con PETG_
